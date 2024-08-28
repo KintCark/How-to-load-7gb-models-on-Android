@@ -3,7 +3,7 @@ STABLE DIFFUSION FORGE ANDROID USE GUIDE
 
 
 
-
+update: also putting your apps in deep sleep mode free up ram
 
 To use SDXL on 12 gb RAM phone with stable-diffusion-webui-forge u hVe to factory reset your phone.  then after u do that only install termux and stargon browser then install  the least amount of apps possible this will release the most amount of ram. this is the only way to load 7gb models In forge. currently sdxl only works in forge I tried automatic1111 but it crashes every time I try to load a 7gb model in automatic1111 but 5.30 gb models load fine. 
 
